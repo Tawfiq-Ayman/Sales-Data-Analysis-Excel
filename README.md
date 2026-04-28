@@ -23,6 +23,7 @@ The project analyzes over $2.29M in sales data across 5,009 orders, 793 customer
 | [📄 Sales_Requirements.pdf](./Sales_Requirements.pdf) | Original project requirements document |
 | [📈 Company_Y_Data_Department_Report.pdf](./Company_Y_Data_Department_Report.pdf) | Full analysis report with insights and recommendations |
 | [🖼️ SALES_DASHBOARD.png](./SALES_DASHBOARD.png) | Dashboard preview image |
+
 ---
 
 ## 🔧 Tools & Techniques Used
