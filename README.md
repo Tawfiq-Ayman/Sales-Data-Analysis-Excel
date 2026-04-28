@@ -23,7 +23,7 @@ The project analyzes over $2.29M in sales data across 5,009 orders, 793 customer
 | [🚛 Shipping_Cost.xlsx](https://github.com/Tawfiq-Ayman/Sales-Data-Analysis-Excel/blob/main/Shipping%20Cost.xlsx) | Supporting table with shipping cost data |
 | [📄 Sales_Requirements.pdf](https://github.com/Tawfiq-Ayman/Sales-Data-Analysis-Excel/blob/main/Sales%20Requirements.pdf) | Original project requirements document |
 | [📈 Company_Y_Data_Department_Report.pdf](https://github.com/Tawfiq-Ayman/Sales-Data-Analysis-Excel/blob/main/Company%20Y%20Data%20Department%20Report.pdf) | Full analysis report with insights and recommendations |
-| [🖼️ SALES_DASHBOARD.png]([./SALES_DASHBOARD.png](https://github.com/Tawfiq-Ayman/Sales-Data-Analysis-Excel/blob/main/SALES%20DASHBORAD.png)) | Dashboard preview image|
+| [🖼️ SALES_DASHBOARD.png](https://github.com/Tawfiq-Ayman/Sales-Data-Analysis-Excel/blob/main/SALES%20DASHBORAD.png) | Dashboard preview image|
 
 ---
 
