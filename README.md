@@ -1,4 +1,4 @@
-<img width="1886" height="862" alt="SALES DASHBORAD" src="https://github.com/user-attachments/assets/9531b0a9-07b9-4172-b24e-1e66a06515cc" /># 📊 Sales Data Analysis Project
+# 📊 Sales Data Analysis Project
 
 ## Overview
 A complete end-to-end sales analysis project built entirely in **Microsoft Excel**.  
