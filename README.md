@@ -61,8 +61,7 @@ Despite strong revenue ($2.29M), profitability is under pressure from high COGS 
 ---
 
 ## 📈 Dashboard Preview
-![Sales Dashboard](<img width="1886" height="862" alt="SALES DASHBORAD" src="https://github.com/user-attachments/assets/e06570e1-d9a7-4b13-91b7-f18c6a80a712" />
-)
+![Sales Dashboard](https://github.com/Tawfiq-Ayman/Sales-Data-Analysis-Excel/blob/main/SALES%20DASHBORAD.png)
 
 ---
 
