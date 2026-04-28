@@ -1,4 +1,4 @@
-# 📊 Sales Data Analysis Project
+<img width="1886" height="862" alt="SALES DASHBORAD" src="https://github.com/user-attachments/assets/9531b0a9-07b9-4172-b24e-1e66a06515cc" /># 📊 Sales Data Analysis Project
 
 ## Overview
 A complete end-to-end sales analysis project built entirely in **Microsoft Excel**.  
@@ -61,7 +61,8 @@ Despite strong revenue ($2.29M), profitability is under pressure from high COGS 
 ---
 
 ## 📈 Dashboard Preview
-![Sales Dashboard](SALES_DASHBOARD.png)
+![Sales Dashboard](<img width="1886" height="862" alt="SALES DASHBORAD" src="https://github.com/user-attachments/assets/e06570e1-d9a7-4b13-91b7-f18c6a80a712" />
+)
 
 ---
 
@@ -69,4 +70,4 @@ Despite strong revenue ($2.29M), profitability is under pressure from high COGS 
 **Tawfiq Ayman Fayyad**  
 Data Analyst | Excel · Power Query · Pivot Tables · Dashboard Design  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/tawfiq-ayman-a79a023b9/)
